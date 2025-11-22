@@ -5,10 +5,9 @@
     "description": "A simple CRUD API to manage my cars API",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+  "host": "cse341-carsapi.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http",
     "https"
   ],
   "paths": {
